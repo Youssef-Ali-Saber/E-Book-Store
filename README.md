@@ -15,4 +15,4 @@
 #### 11 - Seed Database Migrations Automatically
 #### 12 - Bootstrap v5
 #### 13 - Toastr
-#### 14 - Deploying website on MonsterAsp.net (https://bookstoreweb.runasp.net)
+#### 14 - Deployed on MonsterAsp.net
